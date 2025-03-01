@@ -1,0 +1,3 @@
+[submodule "M_LiveStreaming"]
+	path = M_LiveStreaming
+	url = https://github.com/ClaudiaCastellano/ProgettoWebRTC
