@@ -262,4 +262,4 @@ La struttura principale del progetto include:
  ## 6. Schema di Funzionamento
  
  
-![diagrammaFunzionamento](images/diagrammaFunzionamento.png)
+![diagrammaFunzionamento](diagrammaFunzionamento.png)
